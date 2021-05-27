@@ -1,1 +1,7 @@
-hello world
+how to run java file
+
+$: vi filename.java      #creating a java file with extension .java
+$: javac filename.java   #compiling and a .class file is generated
+$: java filename         #generated class file name
+
+
